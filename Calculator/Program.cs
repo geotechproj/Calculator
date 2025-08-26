@@ -100,7 +100,7 @@ class Program
                     Console.WriteLine("Oh no, An exception ocurred trying to do the math. \n - Details: " + e.Message);
                 }
             }
-            Console.WriteLine("---------------------------------------");
+            Console.WriteLine("---------------------------------------teste");
 
             // Waiting for the user to respond before closing
             Console.WriteLine("Press 'n' and Enter to close the app, or press any other key and Enter to continue: ");
